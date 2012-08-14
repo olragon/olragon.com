@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 layout: article
-title: Your Post Title
-abstract: Short summary of your article.
+title: Đánh giá Prose.io
+abstract: Cảm nhận đầu tiên về Prose.io.
 author_twitter: olragon
 author: Long Nguyen
 categories:
@@ -11,6 +11,6 @@ categories:
 
 # Đánh giá Prose.io
 
-Giao diện sạch
-Chạy nhanh
-Được viết bởi Developmentseed - tin yêu từ khi học Drupal
+- Giao diện sạch
+- Chạy nhanh
+- Được viết bởi Developmentseed - tin yêu từ khi học Drupal
