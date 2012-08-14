@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: "olragon.com"
+baseurl: ""
 exclude:
 - .gitignore
 - README.md
