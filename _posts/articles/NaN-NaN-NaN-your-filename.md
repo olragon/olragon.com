@@ -1,15 +1,15 @@
 ---
 published: false
 layout: article
-title: Viết, viết nữa, viết mãi, viết hoài
-abstract: Prose và mình
+title: Hãy viết, viết đi đừng ngại ngùng
+abstract: Nguyên nhân viết blog này và vì sao chọn Prose.
 author_twitter: olragon
 author: Long Nguyen
 categories:
 - articles
 ---
 
-# Viết, viết nữa, viết mãi, viết hoài
+# Hãy viết, viết đi đừng ngại ngùng
 
 ## Nguyên nhân
 Kỹ năng trình bày vấn đề, viết tài liệu của mình cực kỳ tệ hại. Biết tệ là vậy nhưng vẫn chưa sửa được. Lần này với quyết tâm vừa đủ, mục tiêu rõ ràng cộng với tác động vừa phải từ bên ngoài, hy vọng mình sẽ cải thiện được các kỹ năng trên.
