@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: article
 title: Hãy viết, viết đi đừng ngại ngùng
 abstract: Nguyên nhân viết blog này và vì sao chọn Prose.
